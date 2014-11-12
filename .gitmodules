@@ -1,0 +1,12 @@
+[submodule "Gateway_hardware"]
+	path = Gateway_hardware
+	url = git@github.com:elines/Gateway_hardware.git
+[submodule "Gateway_stm32"]
+	path = Gateway_stm32
+	url = git@github.com:elines/Gateway_stm32.git
+[submodule "Gateway_windows"]
+	path = Gateway_windows
+	url = git@github.com:elines/Gateway_windows.git
+[submodule "Gateway_android"]
+	path = Gateway_android
+	url = git@github.com:elines/Gateway_android.git
